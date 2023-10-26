@@ -1,0 +1,24 @@
+[{
+    "id": 1,
+    "marca": "fierce",
+    "modelo": "FM18SI29AM211",
+    "rodado": 26,
+    "fabricacion": 2023,
+    "color": "rosa",
+    "peso": 15,
+    "tipo": "montañera",
+    "precio": 50000,
+    "vendida": "no"
+},
+{
+    "id": 2,
+    "marca": "olmo",
+    "modelo": "regal",
+    "rodado": 29,
+    "fabricacion": 2021,
+    "color": "verde",
+    "peso": 25,
+    "tipo": "paseo",
+    "precio": 100000,
+    "vendida": "no"
+}]
